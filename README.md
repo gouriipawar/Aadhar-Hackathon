@@ -1,7 +1,7 @@
 # Aadhar-Hackathon
 
 **Steps Performed**
-1. We converted the maeven repository to .jar file
+1. We converted the maven repository to .jar file
 2. Imported this .jar file in our android application "Aadhar"
 3. Added dependencies for the .jar file in build.gradle
 4. Designed the UI page and backend
