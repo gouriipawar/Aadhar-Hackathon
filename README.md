@@ -9,7 +9,7 @@
 6. We passed our Aadhar ID to the OtpAPIClient API
 
 **PROBLEMS / ERRORS**
-1. Our code is printing the unique txnId but after that as our code moves to the xml file generation process our crashes.
+1. Our code is printing the unique txnId but after that as our code moves to the xml file generation process our code crashes.
 2. Our code is crashing beacause of this class. "com.sun.org.apache.xerces.internal.jaxp.datatype.XMLGregorianCalendarImpl"
 As android does not supports this class.
 
