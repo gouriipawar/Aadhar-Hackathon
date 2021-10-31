@@ -1,0 +1,3 @@
+include ':otpapi'
+include ':app'
+rootProject.name = "Aadhar"
